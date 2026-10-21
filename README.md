@@ -12,8 +12,8 @@ Tuned for longer screen-on time, cooler idle temps, and a snappier device — fo
 [![NetHunter](https://img.shields.io/badge/NetHunter-Supported-557C94?logo=kalilinux&logoColor=white)](https://www.kali.org/docs/nethunter/)
 [![qcacld3](https://img.shields.io/badge/qcacld3-Injection-8A2BE2)](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-kernel-builder/-/tree/main/patches/5.4?ref_type=heads)
 
-[![ksuN](https://img.shields.io/badge/ksuN-active-green)](https://github.com/varakumar01/Levion_kernel_OP9/tree/ksuN)
-[![nethunterv2](https://img.shields.io/badge/nethunterv2-active-green)](https://github.com/varakumar01/Levion_kernel_OP9/tree/nethunterv2)
+[![ksuN](https://img.shields.io/badge/ksuN-active-green)](https://github.com/varakumar02/Levion_kernel_OP9/tree/ksuN)
+[![nethunterv2](https://img.shields.io/badge/nethunterv2-active-green)](https://github.com/varakumar02/Levion_kernel_OP9/tree/nethunterv2)
 
 <img width="300" height="300" alt="dragonite" src="https://github.com/user-attachments/assets/ebb3fbcb-eec7-40d7-9116-7b3629ac4b0d" />
 
